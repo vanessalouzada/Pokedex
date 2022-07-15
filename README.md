@@ -1,35 +1,32 @@
-                                                          Pokemon React App
+Pokemon React App
 
-                           A Responsive Pokedex made with React JS, Hooks, consuming the pokeapi and using localstorage.
+A Responsive Pokedex made with React JS, Hooks, consuming the pokeapi and using localstorage.
 
-
-                          *** Technologies
-
-
-                              React
-
-                              Poke Api
+*** Technologies
 
 
-                          *** Requirements
+React
+
+Poke Api
+
+*** Requirements
 
 
-                              Git
+Git
 
-                              Node.js
+Node.js
 
-                              NPM
-
-
-                         *** Installation
+NPM
 
 
-                             $ git clone https://github.com/viniciuspasquantonio/pokedex-reac.git
+***Installation
 
-                             $ cd react-todolist
+$ git clone 
 
-                             $ npm install
+$ cd react-todolist
 
-                             $ npm start
+$ npm install
 
-                             The application will open in the browser on http://localhost:3000                                                                  
+$ npm start
+
+The application will open in the browser on http://localhost:3000
